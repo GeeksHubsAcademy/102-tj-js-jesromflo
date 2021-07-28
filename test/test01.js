@@ -19,5 +19,4 @@ function numPrimo(input) {
 
     return arrayPrimosHastaN;
 }
-console.log(numPrimo(1));
 module.exports = numPrimo;
